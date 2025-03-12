@@ -6,7 +6,7 @@
 
 ## Step 1. Fork the repository
 
-Visit the [repository](https://github.com/evavic44/portfolio-ideas) on Github and scroll to the readme section, you'll see a pencil icon on the right, click it to fork the project. This will create a copy in your account.
+Visit the [repository](https://github.com/Pankaj352/portfolio-ideas) on Github and scroll to the readme section, you'll see a pencil icon on the right, click it to fork the project. This will create a copy in your account.
 
 ![fork-project](https://user-images.githubusercontent.com/62628408/164759147-84c9baa0-503e-4163-a352-6132de3b916c.png)
 
@@ -31,7 +31,7 @@ In the new table, start each column with a `|` symbol followed by the column con
 
 ### ⚡ Author Name
 
-Start a new line below the latest portfolio and add the author or creator of the portfolio website, like so: `| Jemima Abu`
+Start a new line below the latest portfolio and add the author or creator of the portfolio website, like so: `| Pankaj Maurya`
 
 ![author-name.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1650538578159/kX0S0PKsB.png)
 
@@ -47,10 +47,10 @@ Add the live link to the portfolio website. PS: Omit the `https://` protocol on 
 Example:
 
 ```
-[victoreke.com](https://victoreke.com)
+ [pankajmaurya352.vercel.app](https://pankajmaurya352.vercel.app/) 
 ```
 
-<!-- ![live-url.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1650498090936/9SxKjCC54.gif) -->
+![live-url.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1650498090936/9SxKjCC54.gif)
 
 ### ⚡Repo
 
@@ -72,7 +72,7 @@ Now we are done adding all the portfolio information, preview the portfolio adde
 
 ## Need more help? 🤔
 
-If you need any adittional guide or help with any issues, feel free to contact me on [twitter](https://twitter.com/victorekea) and I'll answer ASAP. That's a promise 🤝🏽😊
+If you need any adittional guide or help with any issues, feel free to contact me on [twitter](https://x.com/Pankaj_352) and I'll answer ASAP. That's a promise 🤝🏽😊
 
 ## Sponsor
 
@@ -91,4 +91,4 @@ I hope you have a lot of fun while contributing to this project, if you drew ins
 # Contributing
 
 We love pull requests from everyone. By participating in this project, you
-agree to abide by the [Code Of Conduct](https://github.com/Evavic44/portfolio-ideas/blob/main/CODE_OF_CONDUCT.md).
+agree to abide by the [Code Of Conduct](https://github.com/Pankaj352/portfolio-ideas/blob/main/CODE_OF_CONDUCT.md).
