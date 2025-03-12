@@ -13,7 +13,7 @@ export default {
     socialLinks: [{ icon: "github", link: "https://github.com/Pankaj352" }],
     footer: {
       message: "Released under the MIT License.",
-      copyright: "Copyright © 2022-present Pankaj Maurya | Portfolio Ideas",
+      copyright: "Copyright © 2025-present Pankaj Maurya | Portfolio Ideas",
     },
     markdown: {
       theme: "material-palenight",

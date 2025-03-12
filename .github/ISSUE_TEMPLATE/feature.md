@@ -3,7 +3,7 @@ name: Feature
 about: Suggest an idea for this project
 title: "[FEAT] - Feature Info"
 labels: enhancement
-assignees: Evavic44
+assignees: Pankaj352
 ---
 
 **Is your feature request related to a problem? Please describe.**
