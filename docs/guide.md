@@ -74,14 +74,6 @@ Now we are done adding all the portfolio information, preview the portfolio adde
 
 If you need any adittional guide or help with any issues, feel free to contact me on [twitter](https://x.com/Pankaj_352) and I'll answer ASAP. That's a promise 🤝🏽😊
 
-## Sponsor
-
-Wanna buy me a coffee, I'll sincerely appreciate it. Here's the link below.
-
-<a href="https://www.buymeacoffee.com/victoreke">
- <img width="150px" alt="bmc-button" src="https://user-images.githubusercontent.com/62628408/127788747-8850d386-fc61-4fff-b18f-8c5ee597be34.png">
-</a>
-
 <hr>
 I hope you have a lot of fun while contributing to this project, if you drew inspiration from any portfolio on this repo, consider starring this project or sending the creator a thank you message. I sincerely hope you build an amazing portfolio website that will blow the recruiter or visitor's mind. Goodluck. ⚡
 
