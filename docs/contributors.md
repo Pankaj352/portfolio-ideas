@@ -30,9 +30,9 @@
       <sub><b>Victor Eke </b></sub>
     </a>
     <br />
-    <a href="#maintenance-Evavic44" title="Maintenance">🚧</a> 
-    <a href="https://github.com/Evavic44/portfolio-ideas/commits?author=Evavic44" title="Code">💻</a> 
-    <a href="https://github.com/Evavic44/portfolio-ideas/commits?author=Evavic44" title="Documentation">📖</a> 
+    <a href="#maintenance-Evavic44" title="Maintenance">🚧</a>
+    <a href="https://github.com/Evavic44/portfolio-ideas/commits?author=Evavic44" title="Code">💻</a>
+    <a href="https://github.com/Evavic44/portfolio-ideas/commits?author=Evavic44" title="Documentation">📖</a>
     <a href="https://github.com/Evavic44/portfolio-ideas/issues?q=author%3AEvavic44" title="Bug reports">🐛</a>
   </div>
   <div class="contributor">
@@ -41,7 +41,7 @@
       <sub><b>Israel Mitolu</b></sub>
     </a>
     <br />
-    <a href="https://github.com/Evavic44/portfolio-ideas/commits?author=israelmitolu" title="Code">💻</a> 
+    <a href="https://github.com/Evavic44/portfolio-ideas/commits?author=israelmitolu" title="Code">💻</a>
     <a href="https://github.com/Evavic44/portfolio-ideas/commits?author=israelmitolu" title="Documentation">📖</a>
   </div>
   <div  class="contributor">
@@ -50,7 +50,7 @@
       <sub><b>Piyush Goyani</b></sub>
     </a>
     <br />
-    <a href="https://github.com/Evavic44/portfolio-ideas/commits?author=piyush-multiplexer" title="Code">💻</a> 
+    <a href="https://github.com/Evavic44/portfolio-ideas/commits?author=piyush-multiplexer" title="Code">💻</a>
     <a href="https://github.com/Evavic44/portfolio-ideas/commits?author=piyush-multiplexer" title="Documentation">📖</a>
   </div>
   <div  class="contributor">
@@ -59,7 +59,7 @@
       <sub><b>Franklin Ohaegbulam</b></sub>
     </a>
     <br />
-    <a href="https://github.com/Evavic44/portfolio-ideas/commits?author=frankiefab100" title="Code">💻</a> 
+    <a href="https://github.com/Evavic44/portfolio-ideas/commits?author=frankiefab100" title="Code">💻</a>
     <a href="https://github.com/Evavic44/portfolio-ideas/commits?author=frankiefab100" title="Documentation">📖</a>
   </div>
   <div  class="contributor">
