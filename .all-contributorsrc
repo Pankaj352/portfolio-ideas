@@ -6,61 +6,21 @@
   "commit": false,
   "contributors": [
     {
-      "login": "Evavic44",
-      "name": "Victor Eke ",
-      "avatar_url": "https://avatars.githubusercontent.com/u/62628408?v=4",
-      "profile": "http://victoreke.com",
+      "login": "Pankaj352",
+      "name": "Pankaj",
+      "avatar_url": "",
+      "profile": "",
       "contributions": [
         "maintenance",
         "code",
         "doc",
         "bug"
       ]
-    },
-    {
-      "login": "israelmitolu",
-      "name": "Israel Mitolu",
-      "avatar_url": "https://avatars.githubusercontent.com/u/53873209?v=4",
-      "profile": "https://israelmitolu.netlify.app",
-      "contributions": [
-        "code",
-        "doc"
-      ]
-    },
-    {
-      "login": "piyush-multiplexer",
-      "name": "Piyush Goyani",
-      "avatar_url": "https://avatars.githubusercontent.com/u/18528418?v=4",
-      "profile": "https://piyushgoyani.thesourcepedia.org",
-      "contributions": [
-        "code",
-        "doc"
-      ]
-    },
-    {
-      "login": "frankiefab100",
-      "name": "Franklin Ohaegbulam",
-      "avatar_url": "https://avatars.githubusercontent.com/u/46662771?v=4",
-      "profile": "http://frankiefab.com",
-      "contributions": [
-        "code",
-        "doc"
-      ]
-    },
-    {
-      "login": "vimode",
-      "name": "vimode",
-      "avatar_url": "https://avatars.githubusercontent.com/u/39148877?v=4",
-      "profile": "https://github.com/vimode",
-      "contributions": [
-        "code",
-        "doc"
-      ]
     }
   ],
   "contributorsPerLine": 7,
   "projectName": "portfolio-ideas",
-  "projectOwner": "Evavic44",
+  "projectOwner": "Pankaj",
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true,
